@@ -2,14 +2,19 @@
 import PackageDescription
 
 let package = Package(
-    name: "MagicalRecordSPM",
-    platforms: [.iOS(.v17)],
+    name: "MagicalRecord",
+    platforms: [
+        .iOS(.v15)
+    ],
     products: [
-        .library(name: "MagicalRecordSPM", targets: ["MagicalRecordSPM"])
+        .library(
+            name: "MagicalRecord",
+            targets: ["MagicalRecord"]
+        )
     ],
     targets: [
         .target(
-            name: "MagicalRecordSPM",
+            name: "MagicalRecord",
             path: "MagicalRecord"
         )
     ]
