@@ -15,7 +15,8 @@ let package = Package(
     targets: [
         .target(
             name: "MagicalRecord",
-            path: "MagicalRecord"
+            path: "Sources/MagicalRecord",
+            publicHeadersPath: "include"
         )
     ]
 )
