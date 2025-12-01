@@ -9,16 +9,16 @@
 #import "NSObject+MagicalDataImport.h"
 #import "NSAttributeDescription+MagicalDataImport.h"
 #import "NSEntityDescription+MagicalDataImport.h"
-#import "NSManagedObject+MagicalDataImport.h"
+#import "../NSManagedObject/NSManagedObject+MagicalDataImport.h"
 #import "NSRelationshipDescription+MagicalDataImport.h"
-#import "MagicalRecordLogging.h"
+#import "../../Core/MagicalRecordLogging.h"
 
 NSUInteger const kMagicalRecordImportMaximumAttributeFailoverDepth = 10;
 
 
 @implementation NSObject (MagicalRecord_DataImport)
 
-- (NSString *) MR_lookupKeyForAttribute:(NSAttributeDescription *)attributeInfo
+- (NSString *) MR_lookupKeyForAttribute:(NSAttributeDescription *)attributeInfo;
 {
     NSString *attributeName = [attributeInfo name];
     NSString *lookupKey = [[attributeInfo userInfo] objectForKey:kMagicalRecordImportAttributeKeyMapKey] ?: attributeName;

@@ -1,3 +1,7 @@
+# Info
+
+This is a fork of [Magical Record](https://github.com/magicalpanda/MagicalRecord) which enables swift package support. 
+
 # ![Awesome](https://github.com/magicalpanda/magicalpanda.github.com/blob/master/images/awesome_logo_small.png?raw=true) MagicalRecord
 
 [![Circle CI](https://circleci.com/gh/magicalpanda/MagicalRecord/tree/develop.svg?style=svg)](https://circleci.com/gh/magicalpanda/MagicalRecord/tree/develop)

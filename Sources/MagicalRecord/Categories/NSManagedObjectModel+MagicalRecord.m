@@ -6,7 +6,7 @@
 //
 
 #import "NSManagedObjectModel+MagicalRecord.h"
-#import "MagicalRecord+Options.h"
+#import "../Core/MagicalRecord+Options.h"
 
 static NSManagedObjectModel *defaultManagedObjectModel_ = nil;
 
@@ -26,7 +26,7 @@ static NSManagedObjectModel *defaultManagedObjectModel_ = nil;
 	defaultManagedObjectModel_ = newDefaultModel;
 }
 
-+ (NSManagedObjectModel *) MR_mergedObjectModelFromMainBundle
++ (NSManagedObjectModel *) MR_mergedObjectModelFromMainBundle;
 {
     return [self mergedModelFromBundles:nil];
 }
