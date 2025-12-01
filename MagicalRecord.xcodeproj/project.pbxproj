@@ -608,8 +608,8 @@
 				MagicalRecord/Core/MagicalRecordInternal.m,
 				MagicalRecord/Core/MagicalRecordLogging.h,
 				MagicalRecord/Core/MagicalRecordShorthandMethodAliases.h,
-				MagicalRecord/Core/MagicalRecordXcode7CompatibilityMacros.h,
 				MagicalRecord/include/MagicalRecord.h,
+				MagicalRecord/include/MagicalRecordXcode7CompatibilityMacros.h,
 			);
 			publicHeaders = (
 				MagicalRecord/Categories/DataImport/MagicalImportFunctions.h,
@@ -641,8 +641,8 @@
 				MagicalRecord/Core/MagicalRecordInternal.h,
 				MagicalRecord/Core/MagicalRecordLogging.h,
 				MagicalRecord/Core/MagicalRecordShorthandMethodAliases.h,
-				MagicalRecord/Core/MagicalRecordXcode7CompatibilityMacros.h,
 				MagicalRecord/include/MagicalRecord.h,
+				MagicalRecord/include/MagicalRecordXcode7CompatibilityMacros.h,
 			);
 			target = 905D07171A63DE190076B54E /* MagicalRecord for iOS */;
 		};
@@ -706,8 +706,8 @@
 				MagicalRecord/Core/MagicalRecordInternal.m,
 				MagicalRecord/Core/MagicalRecordLogging.h,
 				MagicalRecord/Core/MagicalRecordShorthandMethodAliases.h,
-				MagicalRecord/Core/MagicalRecordXcode7CompatibilityMacros.h,
 				MagicalRecord/include/MagicalRecord.h,
+				MagicalRecord/include/MagicalRecordXcode7CompatibilityMacros.h,
 			);
 			publicHeaders = (
 				MagicalRecord/Categories/DataImport/MagicalImportFunctions.h,
@@ -739,8 +739,8 @@
 				MagicalRecord/Core/MagicalRecordInternal.h,
 				MagicalRecord/Core/MagicalRecordLogging.h,
 				MagicalRecord/Core/MagicalRecordShorthandMethodAliases.h,
-				MagicalRecord/Core/MagicalRecordXcode7CompatibilityMacros.h,
 				MagicalRecord/include/MagicalRecord.h,
+				MagicalRecord/include/MagicalRecordXcode7CompatibilityMacros.h,
 			);
 			target = 905D073A1A63DE690076B54E /* MagicalRecord for OS X */;
 		};
@@ -804,8 +804,8 @@
 				MagicalRecord/Core/MagicalRecordInternal.m,
 				MagicalRecord/Core/MagicalRecordLogging.h,
 				MagicalRecord/Core/MagicalRecordShorthandMethodAliases.h,
-				MagicalRecord/Core/MagicalRecordXcode7CompatibilityMacros.h,
 				MagicalRecord/include/MagicalRecord.h,
+				MagicalRecord/include/MagicalRecordXcode7CompatibilityMacros.h,
 			);
 			publicHeaders = (
 				MagicalRecord/Categories/DataImport/MagicalImportFunctions.h,
@@ -837,8 +837,8 @@
 				MagicalRecord/Core/MagicalRecordInternal.h,
 				MagicalRecord/Core/MagicalRecordLogging.h,
 				MagicalRecord/Core/MagicalRecordShorthandMethodAliases.h,
-				MagicalRecord/Core/MagicalRecordXcode7CompatibilityMacros.h,
 				MagicalRecord/include/MagicalRecord.h,
+				MagicalRecord/include/MagicalRecordXcode7CompatibilityMacros.h,
 			);
 			target = 37CA2606229FEB7000EAB9F6 /* MagicalRecord for tvOS */;
 		};
@@ -935,8 +935,8 @@
 				MagicalRecord/Core/MagicalRecordInternal.m,
 				MagicalRecord/Core/MagicalRecordLogging.h,
 				MagicalRecord/Core/MagicalRecordShorthandMethodAliases.h,
-				MagicalRecord/Core/MagicalRecordXcode7CompatibilityMacros.h,
 				MagicalRecord/include/MagicalRecord.h,
+				MagicalRecord/include/MagicalRecordXcode7CompatibilityMacros.h,
 			);
 			publicHeaders = (
 				MagicalRecord/Categories/DataImport/MagicalImportFunctions.h,
@@ -969,8 +969,8 @@
 				MagicalRecord/Core/MagicalRecordInternal.h,
 				MagicalRecord/Core/MagicalRecordLogging.h,
 				MagicalRecord/Core/MagicalRecordShorthandMethodAliases.h,
-				MagicalRecord/Core/MagicalRecordXcode7CompatibilityMacros.h,
 				MagicalRecord/include/MagicalRecord.h,
+				MagicalRecord/include/MagicalRecordXcode7CompatibilityMacros.h,
 			);
 			target = C7CF97BA1749843F008D9D13 /* libMagicalRecord for OS X */;
 		};
@@ -1034,8 +1034,8 @@
 				MagicalRecord/Core/MagicalRecordInternal.m,
 				MagicalRecord/Core/MagicalRecordLogging.h,
 				MagicalRecord/Core/MagicalRecordShorthandMethodAliases.h,
-				MagicalRecord/Core/MagicalRecordXcode7CompatibilityMacros.h,
 				MagicalRecord/include/MagicalRecord.h,
+				MagicalRecord/include/MagicalRecordXcode7CompatibilityMacros.h,
 			);
 			publicHeaders = (
 				MagicalRecord/Categories/DataImport/MagicalImportFunctions.h,
@@ -1068,8 +1068,8 @@
 				MagicalRecord/Core/MagicalRecordInternal.h,
 				MagicalRecord/Core/MagicalRecordLogging.h,
 				MagicalRecord/Core/MagicalRecordShorthandMethodAliases.h,
-				MagicalRecord/Core/MagicalRecordXcode7CompatibilityMacros.h,
 				MagicalRecord/include/MagicalRecord.h,
+				MagicalRecord/include/MagicalRecordXcode7CompatibilityMacros.h,
 			);
 			target = 3790044822BB51880087D3FC /* libMagicalRecord for tvOS */;
 		};
@@ -1110,8 +1110,8 @@
 				MagicalRecord/Core/MagicalRecordInternal.h,
 				MagicalRecord/Core/MagicalRecordLogging.h,
 				MagicalRecord/Core/MagicalRecordShorthandMethodAliases.h,
-				MagicalRecord/Core/MagicalRecordXcode7CompatibilityMacros.h,
 				MagicalRecord/include/MagicalRecord.h,
+				MagicalRecord/include/MagicalRecordXcode7CompatibilityMacros.h,
 			);
 		};
 /* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
