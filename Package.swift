@@ -10,7 +10,7 @@ let package = Package(
     targets: [
         .target(
             name: "MagicalRecordSPM",
-            path: "Sources/MagicalRecord"
+            path: "MagicalRecord"
         )
     ]
 )
